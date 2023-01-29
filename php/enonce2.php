@@ -2,7 +2,6 @@
     /*
         Ecrire un script qui demande a l'utilisateur de saisir un nombre entier
         et qui affiche la table de multiplication ce nombre en utilisant la boucle "for"
-        echo "Entrez un nombre entier : ";
     */
 
     // On demande a l'utilisateur de saisir un nombre entier
